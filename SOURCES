@@ -1,0 +1,6 @@
+Here is the list of foreign resources in this repository.
+
+- Polish frequency dictionary [pl/dict-freq.txt]
+	src: http://www.slowniki.org.pl/i27.html
+	lic: http://creativecommons.org/licenses/by-sa/3.0/pl/ 
+	note: This is file I found on disk, but I'm 99% sure this is a variation of pdf taken from this source. In case I'm mistaken, please notify me.
